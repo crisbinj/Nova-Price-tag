@@ -15,6 +15,8 @@ A React Native application to create and print price tags for items in a shop us
 
 ![App Screenshot](./screenshot.png)
 
+## Real Life Sample
+![App Screenshot](./sample.png)
 
 ## Installation
 
